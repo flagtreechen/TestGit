@@ -9,7 +9,7 @@ public class Test1 : MonoBehaviour
     {
         int aa = 1;
         int bb = 2;
-        int cc = 3;
+        int cc = 444;
         int dd = 4;
         int ee = 5;
     }
