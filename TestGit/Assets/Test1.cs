@@ -7,11 +7,11 @@ public class Test1 : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        int aa = 2;
-        int bb = 1;
-        int cc = 0;
-        int dd = 3;
-        int ee = 4;
+        int aa = 4;
+        int bb = 3;
+        int cc = 2;
+        int dd = 1;
+        int ee = 0;
     }
 
 
